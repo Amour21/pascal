@@ -1,0 +1,113 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				},
+				{
+					"build" : "3rdparty/antlr4-4.13.2/runtime/Cpp",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-3rdparty.antlr4-4.13.2.runtime.Cpp-Debug-8d300785b939caab729e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "3rdparty/antlr4-4.13.2/runtime/Cpp",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "my_antlr4_example",
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "libantlr4",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "antlr4_static::@517d50d4cbaa8bb251d0",
+					"jsonFile" : "target-antlr4_static-Debug-773e5cccd46ac0a0b3c9.json",
+					"name" : "antlr4_static",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_grammar_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_grammar_example-Debug-2c67f425cd21657a5d91.json",
+					"name" : "my_grammar_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_parser::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_parser-Debug-b361e3f7276796538591.json",
+					"name" : "my_parser",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/lab/out/build/x64-Debug",
+		"source" : "C:/lab"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,13 @@
+C:/lab/out/build/x64-Debug/CMakeFiles/my_parser.dir
+C:/lab/out/build/x64-Debug/CMakeFiles/my_grammar_example.dir
+C:/lab/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/lab/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/lab/out/build/x64-Debug/CMakeFiles/list_install_components.dir
+C:/lab/out/build/x64-Debug/CMakeFiles/install.dir
+C:/lab/out/build/x64-Debug/CMakeFiles/install/local.dir
+C:/lab/out/build/x64-Debug/3rdparty/antlr4-4.13.2/runtime/Cpp/CMakeFiles/antlr4_static.dir
+C:/lab/out/build/x64-Debug/3rdparty/antlr4-4.13.2/runtime/Cpp/CMakeFiles/edit_cache.dir
+C:/lab/out/build/x64-Debug/3rdparty/antlr4-4.13.2/runtime/Cpp/CMakeFiles/rebuild_cache.dir
+C:/lab/out/build/x64-Debug/3rdparty/antlr4-4.13.2/runtime/Cpp/CMakeFiles/list_install_components.dir
+C:/lab/out/build/x64-Debug/3rdparty/antlr4-4.13.2/runtime/Cpp/CMakeFiles/install.dir
+C:/lab/out/build/x64-Debug/3rdparty/antlr4-4.13.2/runtime/Cpp/CMakeFiles/install/local.dir

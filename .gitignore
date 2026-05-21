@@ -1,0 +1,19 @@
+# Игнорируем папки сборки C++
+**/obj/
+**/bin/
+**/x64/
+**/Debug/
+**/Release/
+**/"Debug DLL"/
+**/"Release DLL"/
+
+# Игнорируем тяжелые файлы артефактов компиляции Visual Studio
+*.ilk
+*.pdb
+*.sdf
+*.suo
+*.ipch
+*.log
+*.tlog
+*.lastbuildstate
+.vs/
